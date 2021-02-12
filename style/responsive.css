@@ -11,6 +11,9 @@
 }
 
 @media screen and (min-width: 1000px){
+    header .container {
+        
+    }
     .descricao{
         width: 70%;
     }
@@ -20,5 +23,5 @@
     .filme-principal .descricao  {
         margin-bottom: 30px;
     }
-   
+
 }
